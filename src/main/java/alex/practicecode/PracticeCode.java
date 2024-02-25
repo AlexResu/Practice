@@ -145,3 +145,7 @@ class Student {
         return a+b;
     }
 }
+
+class Practice1 {
+    
+}
